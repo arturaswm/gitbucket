@@ -1,7 +1,7 @@
 GitBucket [![Gitter chat](https://badges.gitter.im/gitbucket/gitbucket.png)](https://gitter.im/gitbucket/gitbucket) [![Build Status](https://travis-ci.org/gitbucket/gitbucket.svg?branch=master)](https://travis-ci.org/gitbucket/gitbucket)
 =========
 
-GitBucket is a Git platform powered by Scala offering:
+Arturas version of - GitBucket is a Git platform powered by Scala offering:
 - easy installation
 - high extensibility by plugins
 - API compatibility with Github
